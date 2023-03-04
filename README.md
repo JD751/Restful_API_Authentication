@@ -1,1 +1,3 @@
-This project contains the code for the medium article on How to create a Restful API- Part 1. The article can be found at: https://medium.com/@jawad751/how-to-create-a-restful-api-part-1-dce44a06f63b
+This project contains the code for the medium article on How to create a Restful API- Part 2. The article can be found at: https://medium.com/@jawad751/how-to-create-a-restful-api-part2-api-authentication-using-jwt-8f975c9dbee6
+
+The article provides a comprehensive guide on how to implement API authentication using JSON Web Tokens (JWT) in Django, including step-by-step instructions and explanations of the key concepts.
